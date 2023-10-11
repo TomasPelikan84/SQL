@@ -1,0 +1,2 @@
+# SQL
+Veci do kurzu.
